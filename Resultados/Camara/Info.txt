@@ -1,0 +1,17 @@
+Tiempo de muestreo: 5 ms
+PID derivativo: 8
+LQR derivativo: 10
+
+PID_1: P=0.4, D=0.2;
+PID_2: P=0.8, D=0.4;
+PID_3: P=1.6, D=0.6;
+PID_4: P=2.6, D=0.4;
+
+
+LQR_1: K = 1.0000    0.5345;
+LQR_2: K = 1.0000    0.5345;
+LQR_3: K = 1.0000    0.5345;
+LQR_4: K = 1.0000    0.5345;
+
+
+Finalmente, se ha dejado el PID con P=1.6 y D=0.6

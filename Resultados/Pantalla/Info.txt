@@ -1,0 +1,23 @@
+Tiempo de muestreo: 5 ms
+PID derivativo: 8
+LQR derivativo: 10
+
+PID_1: P=0.4, D=0.2;
+PID_2: P=0.8, D=0.2;
+PID_3: P=0.8, D=0.4;
+PID_4: P=1.6, D=0.6;
+PID_5: P=1.5, D=0.5;
+PID_6: P=2.6, D=0.8;
+PID_7: P=2.6, D=0.4;
+PID_8: P=2.6, D=0.6;
+
+LQR_1: K = 1.0000    0.5345;
+LQR_2: K = 1.0000    0.5345;
+LQR_3: K = 1.0000    0.5345;
+
+PID_prueba: PID:2.0,0.6; TD=9; Cuadrado. Eje Y
+PID_prueba2: PID:2.0,0.6; TD=9; Pseudo-Círculo. Eje Y
+PID_prueba3: PID:2.0,0.6; TD=9; Pseudo-Círculo. Ejes XY
+
+
+Finalmete el controlador que se ha dejado es PID con P=2.2 y D=0.6
